@@ -16,6 +16,7 @@
         echo'<br>';
         echo'-----';
         echo '<br>';
+        
 
         $max_num = $valor;
 
